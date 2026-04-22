@@ -1,0 +1,5 @@
+id;empresa;descripcion;iva;total
+1;Empresa 1;Esta factura..;21%;300
+2;Empresa 2;Esta factura..;21%;200
+3;Empresa 3;Esta factura..;21%;400
+5;Empresa5;blablabla;21;600.0
